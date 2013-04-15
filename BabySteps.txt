@@ -1,0 +1,5 @@
+- retangulo com textura usando as coordenadas de espaço
+- retangulo com 1 textura
+- retangulo repetido 10x 
+- retangulo com clamp, feito na mão...
+- esfera
