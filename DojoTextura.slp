@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ShaderLab>
+	<shaders>
+		<vertex>textura.vert</vertex>
+		<fragment>textura.frag</fragment>
+	</shaders>
+	<model>
+		<id>9</id>
+	</model>
+	<textures>
+		<filename>../../../Pictures/Untitled.png</filename>
+	</textures>
+</ShaderLab>
